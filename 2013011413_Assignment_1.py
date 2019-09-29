@@ -10,6 +10,7 @@ visit = []
 m = 0
 n = 0
 k = 0
+
 def display(arr):
     for i in range(m):
         line = ''
